@@ -1,4 +1,4 @@
-##PuTTYgen UI Redesign
+# PuTTYgen UI Redesign
 
 **Note**: This is a class project collaborated with two other members.
 
