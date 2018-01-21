@@ -1,4 +1,4 @@
-#PuTTYgen UI Redesign
+##PuTTYgen UI Redesign
 
 **Note**: This is a class project collaborated with two other members.
 
@@ -6,7 +6,7 @@
 
 New users of public-key cryptography are often students who are using Github or Amazon Web Services (AWS) for the first time. When trying to generate keys, online instructions are command-line based and do not help users understand the purpose of the keys generated.
  
-On Windows, PuTTYgen, also known as the PuTTY Key Generator, generates pairs of public and private keys to be used with PuTTY, PSCP and other authentication agents [1]. It can generate RSA, DSA, ECDSA, and ED25519 keys. However, its user interface is not very user-friendly, so it is not much more usable than command-line tools.
+On Windows, PuTTYgen, also known as the PuTTY Key Generator, generates pairs of public and private keys to be used with PuTTY, PSCP and other authentication agents. It can generate RSA, DSA, ECDSA, and ED25519 keys. However, its user interface is not very user-friendly, so it is not much more usable than command-line tools.
 
 ## Major Issues
 
@@ -20,7 +20,7 @@ The desktop icon for PuTTYgen appears to be a PC from the early 90’s with a ke
 
 3.No macOS version
 
-After being available for so many years, PuTTYgen still does not have a macOS version. The most popular computers for new college students are Macs [2]. We were unable to find any macOS key generating app with a GUI. If macOS users are not comfortable on the terminal, they have no equivalent substitute for PuTTYgen.
+After being available for so many years, PuTTYgen still does not have a macOS version. The most popular computers for new college students are Macs. We were unable to find any macOS key generating app with a GUI. If macOS users are not comfortable on the terminal, they have no equivalent substitute for PuTTYgen.
 
 4.No explanation for key options
 
@@ -53,8 +53,8 @@ Our project aims to solve the issues listed above in the current version of PuTT
 
 - Improving the visual aesthetic in the new UI to make it more intuitive for users.
 
-## Redesign
-To protect the property of our redesign, please contact for details.
+## Redesign Progress
+Phase I of our project has been completed, if you're interested in seeing our latest design, please contact us.
 
 
 
